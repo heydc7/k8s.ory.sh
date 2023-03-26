@@ -1,1 +1,1 @@
-# k8s.ory.sh
+# Subdomain Takeover by DC
